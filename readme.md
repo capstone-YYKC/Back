@@ -1,7 +1,7 @@
 ## 백엔드 개발
 
 ### 개발 진행 상황
-1) DATABASE 설계         ----- 완료<br>
+1) DATABASE 설계         ----- 완료<br><br>
 <img width="60%" src=https://github.com/capstone-YYKC/Back/assets/121215043/6e8dd861-f822-4759-923e-10e77c5db320/><br>
 
 2) DB-Nodejs 연결        ----- 완료
