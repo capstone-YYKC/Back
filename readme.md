@@ -2,7 +2,7 @@
 
 ### 개발 진행 상황
 1) DATABASE 설계         ----- 완료
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
+<img width="80%" src=["https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"](https://github.com/capstone-YYKC/Back/issues/1#issue-2270738328)/>
 2) DB-Nodejs 연결        ----- 완료
 3) Diary 생성, 열람 API  ----- 완료
 4) User 회원가입, 로그인 API -- 완료
