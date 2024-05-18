@@ -1,0 +1,43 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.7.0
+2 info using node@v18.20.2
+3 silly config:load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config:load:file:/home/ubuntu/Front/.npmrc
+5 silly config:load:file:/home/ubuntu/.npmrc
+6 silly config:load:file:/usr/etc/npmrc
+7 verbose title npm i
+8 verbose argv "i"
+9 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs/2024-05-15T10_42_39_950Z-
+10 verbose logfile /home/ubuntu/.npm/_logs/2024-05-15T10_42_39_950Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+15 silly reify moves {}
+16 verbose stack Error: EACCES: permission denied, mkdir '/home/ubuntu/Front/node_modules/@esbuild/aix-ppc64'
+17 verbose cwd /home/ubuntu/Front
+18 verbose Linux 6.5.0-1017-aws
+19 verbose node v18.20.2
+20 verbose npm  v10.7.0
+21 error code EACCES
+22 error syscall mkdir
+23 error path /home/ubuntu/Front/node_modules/@esbuild/aix-ppc64
+24 error errno -13
+25 error [Error: EACCES: permission denied, mkdir '/home/ubuntu/Front/node_modules/@esbuild/aix-ppc64'] {
+25 error   errno: -13,
+25 error   code: 'EACCES',
+25 error   syscall: 'mkdir',
+25 error   path: '/home/ubuntu/Front/node_modules/@esbuild/aix-ppc64'
+25 error }
+26 error
+26 error The operation was rejected by your operating system.
+26 error It is likely you do not have the permissions to access this file as the current user
+26 error
+26 error If you believe this might be a permissions issue, please double-check the
+26 error permissions of the file and its containing directories, or try running
+26 error the command again as root/Administrator.
+27 verbose exit -13
+28 verbose code -13
+29 silly unfinished npm timer reify 1715769761045
+30 silly unfinished npm timer reify:createSparse 1715769762053
+31 error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2024-05-15T10_42_39_950Z-debug-0.log
