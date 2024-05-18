@@ -1,0 +1,315 @@
+2024-05-12T11:37:50: PM2 log: ===============================================================================
+2024-05-12T11:37:50: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-12T11:37:50: PM2 log: Time                 : Sun May 12 2024 11:37:50 GMT+0000 (Coordinated Universal Time)
+2024-05-12T11:37:50: PM2 log: PM2 version          : 5.3.1
+2024-05-12T11:37:50: PM2 log: Node.js version      : 14.21.3
+2024-05-12T11:37:50: PM2 log: Current arch         : x64
+2024-05-12T11:37:50: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-12T11:37:50: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-12T11:37:50: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-12T11:37:50: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-12T11:37:50: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-12T11:37:50: PM2 log: Worker Interval      : 30000
+2024-05-12T11:37:50: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-12T11:37:50: PM2 log: Concurrent actions   : 2
+2024-05-12T11:37:50: PM2 log: SIGTERM timeout      : 1600
+2024-05-12T11:37:50: PM2 log: ===============================================================================
+2024-05-12T11:38:09: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:38:09: PM2 log: App [index:0] online
+2024-05-12T11:44:48: PM2 log: Stopping app:index id:0
+2024-05-12T11:44:48: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-12T11:44:48: PM2 log: pid=945 msg=process killed
+2024-05-12T11:44:54: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:44:54: PM2 log: App [index:0] online
+2024-05-12T11:56:40: PM2 log: Stopping app:index id:0
+2024-05-12T11:56:40: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-12T11:56:40: PM2 log: pid=1111 msg=process killed
+2024-05-12T11:56:45: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:45: PM2 log: App [index:0] online
+2024-05-12T11:56:46: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:46: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:46: PM2 log: App [index:0] online
+2024-05-12T11:56:46: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:46: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:46: PM2 log: App [index:0] online
+2024-05-12T11:56:47: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:47: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:47: PM2 log: App [index:0] online
+2024-05-12T11:56:47: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:47: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:47: PM2 log: App [index:0] online
+2024-05-12T11:56:48: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:48: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:48: PM2 log: App [index:0] online
+2024-05-12T11:56:48: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:48: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:48: PM2 log: App [index:0] online
+2024-05-12T11:56:49: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:49: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:49: PM2 log: App [index:0] online
+2024-05-12T11:56:49: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:49: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:49: PM2 log: App [index:0] online
+2024-05-12T11:56:50: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:50: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:50: PM2 log: App [index:0] online
+2024-05-12T11:56:50: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:50: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:50: PM2 log: App [index:0] online
+2024-05-12T11:56:51: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:51: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:51: PM2 log: App [index:0] online
+2024-05-12T11:56:51: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:51: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:51: PM2 log: App [index:0] online
+2024-05-12T11:56:52: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:52: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:52: PM2 log: App [index:0] online
+2024-05-12T11:56:52: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:52: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:52: PM2 log: App [index:0] online
+2024-05-12T11:56:53: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:53: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T11:56:53: PM2 log: App [index:0] online
+2024-05-12T11:56:53: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2024-05-12T11:56:53: PM2 log: Script /home/ubuntu/javascript_web/node/index.js had too many unstable restarts (16). Stopped. "errored"
+2024-05-12T12:01:08: PM2 log: App [index:0] starting in -fork mode-
+2024-05-12T12:01:08: PM2 log: App [index:0] online
+2024-05-12T12:05:17: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-12T12:05:17: PM2 log: Deleting process 0
+2024-05-12T12:05:17: PM2 log: Stopping app:index id:0
+2024-05-12T12:05:17: PM2 log: App [index:0] exited with code [0] via signal [SIGHUP]
+2024-05-12T12:05:17: PM2 log: pid=1528 msg=process killed
+2024-05-12T12:05:17: PM2 log: Exited peacefully
+2024-05-13T03:19:54: PM2 log: ===============================================================================
+2024-05-13T03:19:54: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-13T03:19:54: PM2 log: Time                 : Mon May 13 2024 03:19:54 GMT+0000 (Coordinated Universal Time)
+2024-05-13T03:19:54: PM2 log: PM2 version          : 5.3.1
+2024-05-13T03:19:54: PM2 log: Node.js version      : 14.21.3
+2024-05-13T03:19:54: PM2 log: Current arch         : x64
+2024-05-13T03:19:54: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-13T03:19:54: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-13T03:19:54: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-13T03:19:54: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-13T03:19:54: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-13T03:19:54: PM2 log: Worker Interval      : 30000
+2024-05-13T03:19:54: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-13T03:19:54: PM2 log: Concurrent actions   : 2
+2024-05-13T03:19:54: PM2 log: SIGTERM timeout      : 1600
+2024-05-13T03:19:54: PM2 log: ===============================================================================
+2024-05-13T03:20:21: PM2 log: App [index:0] starting in -fork mode-
+2024-05-13T03:20:21: PM2 log: App [index:0] online
+2024-05-13T03:29:50: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-13T03:29:50: PM2 log: Deleting process 0
+2024-05-13T03:29:50: PM2 log: Stopping app:index id:0
+2024-05-13T03:29:50: PM2 log: App [index:0] exited with code [0] via signal [SIGHUP]
+2024-05-13T03:29:51: PM2 log: pid=957 msg=process killed
+2024-05-13T03:29:51: PM2 log: Exited peacefully
+2024-05-13T06:25:52: PM2 log: ===============================================================================
+2024-05-13T06:25:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-13T06:25:53: PM2 log: Time                 : Mon May 13 2024 06:25:53 GMT+0000 (Coordinated Universal Time)
+2024-05-13T06:25:53: PM2 log: PM2 version          : 5.3.1
+2024-05-13T06:25:53: PM2 log: Node.js version      : 14.21.3
+2024-05-13T06:25:53: PM2 log: Current arch         : x64
+2024-05-13T06:25:53: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-13T06:25:53: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-13T06:25:53: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-13T06:25:53: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-13T06:25:53: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-13T06:25:53: PM2 log: Worker Interval      : 30000
+2024-05-13T06:25:53: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-13T06:25:53: PM2 log: Concurrent actions   : 2
+2024-05-13T06:25:53: PM2 log: SIGTERM timeout      : 1600
+2024-05-13T06:25:53: PM2 log: ===============================================================================
+2024-05-13T06:26:11: PM2 log: App [index:0] starting in -fork mode-
+2024-05-13T06:26:11: PM2 log: App [index:0] online
+2024-05-13T06:30:13: PM2 log: Stopping app:index id:0
+2024-05-13T06:30:13: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-13T06:30:13: PM2 log: pid=960 msg=process killed
+2024-05-13T06:31:46: PM2 log: App [index:0] starting in -fork mode-
+2024-05-13T06:31:46: PM2 log: App [index:0] online
+2024-05-13T06:36:12: PM2 log: Stopping app:index id:0
+2024-05-13T06:36:12: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-13T06:36:12: PM2 log: pid=1024 msg=process killed
+2024-05-13T06:36:16: PM2 log: App [index:0] starting in -fork mode-
+2024-05-13T06:36:16: PM2 log: App [index:0] online
+2024-05-13T07:29:27: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-13T07:29:27: PM2 log: Deleting process 0
+2024-05-13T07:29:27: PM2 log: Stopping app:index id:0
+2024-05-13T07:29:27: PM2 log: App [index:0] exited with code [0] via signal [SIGHUP]
+2024-05-13T07:29:27: PM2 log: pid=1086 msg=process killed
+2024-05-13T07:29:27: PM2 log: Exited peacefully
+2024-05-13T10:18:42: PM2 log: ===============================================================================
+2024-05-13T10:18:42: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-13T10:18:42: PM2 log: Time                 : Mon May 13 2024 10:18:42 GMT+0000 (Coordinated Universal Time)
+2024-05-13T10:18:42: PM2 log: PM2 version          : 5.3.1
+2024-05-13T10:18:42: PM2 log: Node.js version      : 14.21.3
+2024-05-13T10:18:42: PM2 log: Current arch         : x64
+2024-05-13T10:18:42: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-13T10:18:42: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-13T10:18:42: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-13T10:18:42: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-13T10:18:42: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-13T10:18:42: PM2 log: Worker Interval      : 30000
+2024-05-13T10:18:42: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-13T10:18:42: PM2 log: Concurrent actions   : 2
+2024-05-13T10:18:42: PM2 log: SIGTERM timeout      : 1600
+2024-05-13T10:18:42: PM2 log: ===============================================================================
+2024-05-13T10:18:42: PM2 log: App [index:0] starting in -fork mode-
+2024-05-13T10:18:42: PM2 log: App [index:0] online
+2024-05-13T10:38:39: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-13T10:38:39: PM2 log: Deleting process 0
+2024-05-13T10:38:39: PM2 log: Stopping app:index id:0
+2024-05-13T10:38:39: PM2 log: App [index:0] exited with code [0] via signal [SIGHUP]
+2024-05-13T10:38:39: PM2 log: pid=929 msg=process killed
+2024-05-13T10:38:39: PM2 log: Exited peacefully
+2024-05-13T11:12:10: PM2 log: ===============================================================================
+2024-05-13T11:12:10: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-13T11:12:10: PM2 log: Time                 : Mon May 13 2024 11:12:10 GMT+0000 (Coordinated Universal Time)
+2024-05-13T11:12:10: PM2 log: PM2 version          : 5.3.1
+2024-05-13T11:12:10: PM2 log: Node.js version      : 14.21.3
+2024-05-13T11:12:10: PM2 log: Current arch         : x64
+2024-05-13T11:12:10: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-13T11:12:10: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-13T11:12:10: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-13T11:12:10: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-13T11:12:10: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-13T11:12:10: PM2 log: Worker Interval      : 30000
+2024-05-13T11:12:10: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-13T11:12:10: PM2 log: Concurrent actions   : 2
+2024-05-13T11:12:10: PM2 log: SIGTERM timeout      : 1600
+2024-05-13T11:12:10: PM2 log: ===============================================================================
+2024-05-13T11:12:10: PM2 log: App [index:0] starting in -fork mode-
+2024-05-13T11:12:10: PM2 log: App [index:0] online
+2024-05-13T11:51:26: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-13T11:51:26: PM2 log: Deleting process 0
+2024-05-13T11:51:26: PM2 log: Stopping app:index id:0
+2024-05-13T11:51:26: PM2 log: App [index:0] exited with code [0] via signal [SIGTERM]
+2024-05-13T11:51:26: PM2 log: pid=919 msg=process killed
+2024-05-13T11:51:26: PM2 log: Exited peacefully
+2024-05-14T04:07:19: PM2 log: ===============================================================================
+2024-05-14T04:07:19: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-14T04:07:19: PM2 log: Time                 : Tue May 14 2024 04:07:19 GMT+0000 (Coordinated Universal Time)
+2024-05-14T04:07:19: PM2 log: PM2 version          : 5.3.1
+2024-05-14T04:07:19: PM2 log: Node.js version      : 14.21.3
+2024-05-14T04:07:19: PM2 log: Current arch         : x64
+2024-05-14T04:07:19: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-14T04:07:19: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-14T04:07:19: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-14T04:07:19: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-14T04:07:19: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-14T04:07:19: PM2 log: Worker Interval      : 30000
+2024-05-14T04:07:19: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-14T04:07:19: PM2 log: Concurrent actions   : 2
+2024-05-14T04:07:19: PM2 log: SIGTERM timeout      : 1600
+2024-05-14T04:07:19: PM2 log: ===============================================================================
+2024-05-14T04:07:19: PM2 log: App [index:0] starting in -fork mode-
+2024-05-14T04:07:19: PM2 log: App [index:0] online
+2024-05-14T04:26:04: PM2 log: Stopping app:index id:0
+2024-05-14T04:26:04: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-14T04:26:04: PM2 log: pid=961 msg=process killed
+2024-05-14T04:26:10: PM2 log: App [index:0] starting in -fork mode-
+2024-05-14T04:26:10: PM2 log: App [index:0] online
+2024-05-14T04:30:01: PM2 log: Stopping app:index id:0
+2024-05-14T04:30:01: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-14T04:30:01: PM2 log: pid=1063 msg=process killed
+2024-05-14T04:30:06: PM2 log: App [index:0] starting in -fork mode-
+2024-05-14T04:30:06: PM2 log: App [index:0] online
+2024-05-14T12:30:27: PM2 log: Stopping app:index id:0
+2024-05-14T12:30:27: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-14T12:30:27: PM2 log: pid=1112 msg=process killed
+2024-05-14T12:30:35: PM2 log: App [index:0] starting in -fork mode-
+2024-05-14T12:30:35: PM2 log: App [index:0] online
+2024-05-14T12:33:02: PM2 log: Stopping app:index id:0
+2024-05-14T12:33:02: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-14T12:33:02: PM2 log: pid=6782 msg=process killed
+2024-05-14T12:33:02: PM2 log: App [index:0] starting in -fork mode-
+2024-05-14T12:33:02: PM2 log: App [index:0] online
+2024-05-14T12:59:30: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-14T12:59:30: PM2 log: Deleting process 0
+2024-05-14T12:59:30: PM2 log: Stopping app:index id:0
+2024-05-14T12:59:30: PM2 log: App [index:0] exited with code [0] via signal [SIGHUP]
+2024-05-14T12:59:30: PM2 log: pid=6820 msg=process killed
+2024-05-14T12:59:30: PM2 log: Exited peacefully
+2024-05-15T06:41:03: PM2 log: ===============================================================================
+2024-05-15T06:41:03: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-15T06:41:03: PM2 log: Time                 : Wed May 15 2024 06:41:03 GMT+0000 (Coordinated Universal Time)
+2024-05-15T06:41:03: PM2 log: PM2 version          : 5.3.1
+2024-05-15T06:41:03: PM2 log: Node.js version      : 14.21.3
+2024-05-15T06:41:03: PM2 log: Current arch         : x64
+2024-05-15T06:41:03: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-15T06:41:03: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-15T06:41:03: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-15T06:41:03: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-15T06:41:03: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-15T06:41:03: PM2 log: Worker Interval      : 30000
+2024-05-15T06:41:03: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-15T06:41:03: PM2 log: Concurrent actions   : 2
+2024-05-15T06:41:03: PM2 log: SIGTERM timeout      : 1600
+2024-05-15T06:41:03: PM2 log: ===============================================================================
+2024-05-15T06:41:39: PM2 log: App [index:0] starting in -fork mode-
+2024-05-15T06:41:39: PM2 log: App [index:0] online
+2024-05-15T06:44:29: PM2 log: Stopping app:index id:0
+2024-05-15T06:44:29: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-15T06:44:29: PM2 log: pid=1045 msg=process killed
+2024-05-15T06:44:29: PM2 log: App [index:0] starting in -fork mode-
+2024-05-15T06:44:29: PM2 log: App [index:0] online
+2024-05-15T06:48:31: PM2 log: Stopping app:index id:0
+2024-05-15T06:48:31: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-05-15T06:48:32: PM2 log: pid=1077 msg=process killed
+2024-05-15T06:48:32: PM2 log: App [index:0] starting in -fork mode-
+2024-05-15T06:48:32: PM2 log: App [index:0] online
+2024-05-15T07:52:49: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-15T07:52:49: PM2 log: Deleting process 0
+2024-05-15T07:52:49: PM2 log: Stopping app:index id:0
+2024-05-15T07:52:49: PM2 log: App [index:0] exited with code [0] via signal [SIGHUP]
+2024-05-15T07:52:49: PM2 log: pid=1110 msg=process killed
+2024-05-15T07:52:49: PM2 log: Exited peacefully
+2024-05-15T10:11:09: PM2 log: ===============================================================================
+2024-05-15T10:11:09: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-15T10:11:09: PM2 log: Time                 : Wed May 15 2024 10:11:09 GMT+0000 (Coordinated Universal Time)
+2024-05-15T10:11:09: PM2 log: PM2 version          : 5.3.1
+2024-05-15T10:11:09: PM2 log: Node.js version      : 14.21.3
+2024-05-15T10:11:09: PM2 log: Current arch         : x64
+2024-05-15T10:11:09: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-15T10:11:09: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-15T10:11:09: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-15T10:11:09: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-15T10:11:09: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-15T10:11:09: PM2 log: Worker Interval      : 30000
+2024-05-15T10:11:09: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-15T10:11:09: PM2 log: Concurrent actions   : 2
+2024-05-15T10:11:09: PM2 log: SIGTERM timeout      : 1600
+2024-05-15T10:11:09: PM2 log: ===============================================================================
+2024-05-15T10:11:09: PM2 log: App [index:0] starting in -fork mode-
+2024-05-15T10:11:09: PM2 log: App [index:0] online
+2024-05-15T10:47:49: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-15T10:47:49: PM2 log: Deleting process 0
+2024-05-15T10:47:49: PM2 log: Stopping app:index id:0
+2024-05-15T10:47:49: PM2 log: App [index:0] exited with code [0] via signal [SIGTERM]
+2024-05-15T10:47:49: PM2 log: pid=919 msg=process killed
+2024-05-15T10:47:49: PM2 log: Exited peacefully
+2024-05-15T10:53:54: PM2 log: ===============================================================================
+2024-05-15T10:53:54: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-05-15T10:53:54: PM2 log: Time                 : Wed May 15 2024 10:53:54 GMT+0000 (Coordinated Universal Time)
+2024-05-15T10:53:54: PM2 log: PM2 version          : 5.3.1
+2024-05-15T10:53:54: PM2 log: Node.js version      : 14.21.3
+2024-05-15T10:53:54: PM2 log: Current arch         : x64
+2024-05-15T10:53:54: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2024-05-15T10:53:54: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2024-05-15T10:53:54: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2024-05-15T10:53:54: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2024-05-15T10:53:54: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2024-05-15T10:53:54: PM2 log: Worker Interval      : 30000
+2024-05-15T10:53:54: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2024-05-15T10:53:54: PM2 log: Concurrent actions   : 2
+2024-05-15T10:53:54: PM2 log: SIGTERM timeout      : 1600
+2024-05-15T10:53:54: PM2 log: ===============================================================================
+2024-05-15T10:54:03: PM2 log: App [index:0] starting in -fork mode-
+2024-05-15T10:54:03: PM2 log: App [index:0] online
+2024-05-15T13:03:48: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2024-05-15T13:03:48: PM2 log: Deleting process 0
+2024-05-15T13:03:48: PM2 log: Stopping app:index id:0
+2024-05-15T13:03:48: PM2 log: App [index:0] exited with code [0] via signal [SIGTERM]
+2024-05-15T13:03:48: PM2 log: pid=1072 msg=process killed
+2024-05-15T13:03:48: PM2 log: Exited peacefully
